@@ -34,7 +34,6 @@ Go to https://openweathermap.org
 Create an account and generate an API key
 5. Add API Key to Servlet
 Update WeatherServlet.java:
-
 java
 Copy
 Edit
